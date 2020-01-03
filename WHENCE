@@ -5347,3 +5347,11 @@ Version: 3.12.1
 
 Licence: Redistributable. See silabs/LICENCE.wf200 for details.
 Originates from https://github.com/SiliconLabs/wfx-firmware
+
+--------------------------------------------------------------------------
+
+Driver: atmel-maxtouch - Atmel Touchscreen driver
+
+File: maxtouch-acer-iconia-tab-a500.cfg
+
+Licence: GPLv2. See GPL-2 for details.
