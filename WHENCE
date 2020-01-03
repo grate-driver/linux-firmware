@@ -2528,6 +2528,7 @@ Licence: Redistributable. See LICENCE.cypress for details.
 
 File: "brcm/brcmfmac4329-sdio.acer,picasso.txt"
 File: "brcm/brcmfmac4330-sdio.Prowise-PT301.txt"
+File: "brcm/brcmfmac4330-sdio.asus,grouper.txt"
 File: "brcm/brcmfmac43340-sdio.meegopad-t08.txt"
 File: "brcm/brcmfmac43340-sdio.pov-tab-p1006w-data.txt"
 File: "brcm/brcmfmac43362-sdio.cubietech,cubietruck.txt"
@@ -2542,6 +2543,8 @@ File: "brcm/brcmfmac43455-sdio.raspberrypi,3-model-b-plus.txt"
 File: "brcm/brcmfmac43455-sdio.raspberrypi,4-model-b.txt"
 File: "brcm/brcmfmac43455-sdio.MINIX-NEO Z83-4.txt"
 File: "brcm/brcmfmac4356-pcie.gpd-win-pocket.txt"
+
+LINK: "brcm/brcmfmac4330-sdio.asus,tilapia.txt" -> "brcm/brcmfmac4330-sdio.asus,grouper.txt"
 
 Licence: GPLv2. See GPL-2 for details.
 
