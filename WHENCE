@@ -4740,3 +4740,11 @@ Derived from proprietary unpublished source code.
 Permission is hereby granted for the distribution of this firmware
 as part of Linux or other Open Source operating system kernel,
 provided this copyright notice is accompanying it.
+
+--------------------------------------------------------------------------
+
+Driver: atmel-maxtouch - Atmel Touchscreen driver
+
+File: maxtouch-acer-iconia-tab-a500.cfg
+
+Licence: GPLv2. See GPL-2 for details.
