@@ -4749,3 +4749,11 @@ Driver: atmel-maxtouch - Atmel Touchscreen driver
 File: maxtouch-acer-iconia-tab-a500.cfg
 
 Licence: GPLv2. See GPL-2 for details.
+
+--------------------------------------------------------------------------
+
+Driver: hci-bcm Cypress Bluetooth firmware
+
+File: brcm/BCM4329B1.hcd
+
+Licence: Redistributable. See LICENCE.cypress for details.
