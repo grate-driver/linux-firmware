@@ -2612,7 +2612,10 @@ File: brcm/brcmfmac4373.bin
 
 Licence: Redistributable. See LICENCE.cypress for details.
 
+File: "brcm/brcmfmac4329-sdio.acer,picasso.txt"
 File: "brcm/brcmfmac4330-sdio.Prowise-PT301.txt"
+File: "brcm/brcmfmac4330-sdio.asus,grouper.txt"
+LINK: "brcm/brcmfmac4330-sdio.asus,tilapia.txt" -> "brcm/brcmfmac4330-sdio.asus,grouper.txt"
 File: "brcm/brcmfmac43340-sdio.meegopad-t08.txt"
 File: "brcm/brcmfmac43340-sdio.pov-tab-p1006w-data.txt"
 File: "brcm/brcmfmac43362-sdio.cubietech,cubietruck.txt"
@@ -5036,3 +5039,20 @@ Driver: prestera - Marvell driver for Prestera family ASIC devices
 File: mrvl/prestera/mvsw_prestera_fw-v2.0.img
 
 Licence: Redistributable. See LICENCE.Marvell for details.
+
+--------------------------------------------------------------------------
+
+Driver: atmel-maxtouch - Atmel Touchscreen driver
+
+File: maxtouch-acer-iconia-tab-a500.cfg
+
+Licence: GPLv2. See GPL-2 for details.
+
+--------------------------------------------------------------------------
+
+Driver: hci-bcm Cypress Bluetooth firmware
+
+File: brcm/BCM4329B1.hcd
+File: brcm/BCM4330B1.hcd
+
+Licence: Redistributable. See LICENCE.cypress for details.
